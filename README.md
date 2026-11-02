@@ -50,12 +50,6 @@
 * **QR codes:** qrcode
 * **Hosting:** Render
 
-## Getting started
-
-Try the hosted version at **[sharelah.onrender.com](https://sharelah.onrender.com/)**
-
-**Prerequisites:** Node.js 18 or newer.
-
 ## Privacy
 
 Sessions and files live in memory and on local disk only. They are wiped when:
