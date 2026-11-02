@@ -52,7 +52,7 @@
 
 ## Getting started
 
-Try the hosted version at **[sharelah.onrender.com](https://sharelah.onrender.com/)**, or run it locally.
+Try the hosted version at **[sharelah.onrender.com](https://sharelah.onrender.com/)**
 
 **Prerequisites:** Node.js 18 or newer.
 
