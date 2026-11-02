@@ -5,8 +5,8 @@
 <h1 align="center">Sharelah</h1>
 
 <p align="center">
-  <strong>Login-free file and text sharing between devices.</strong><br>
-  Join with a code or QR. Delete the session when you're done.
+  <strong>Login free file and text sharing between devices.</strong><br>
+  Join with a QR or code. Delete the session when you're done.
 </p>
 
 <p align="center">
