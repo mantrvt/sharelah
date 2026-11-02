@@ -17,7 +17,6 @@
   <a href="#features">Features</a> •
   <a href="#how-it-works">How it works</a> •
   <a href="#tech-stack">Tech stack</a> •
-  <a href="#getting-started">Getting started</a> •
   <a href="#privacy">Privacy</a>
 </p>
 
